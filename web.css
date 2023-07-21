@@ -1,0 +1,80 @@
+body
+{
+    background-color: hotpink;
+}
+
+
+
+.pic
+{
+    width: 700px;
+    height:400px;
+    position: absolute;
+    top: 120px;
+    left: 110px;
+}
+.first
+{
+
+    background-color: aqua;
+     position: absolute;
+     top: 30px;
+     left: 50px;
+     right: 50px;
+     text-decoration-color: blue;
+     
+}
+.card
+{
+    position:relative;
+    top: 120px;
+    background-color: yellow;
+    
+}
+.FIX
+{
+    position:absolute;
+    top: 420px;
+    left: 30px;
+    gap: 100px;;
+    
+}
+.big
+{
+    background-color: antiquewhite;
+    position: absolute;
+    top: 700px;
+    left: 50px;
+    width: 100px;
+    height: 400px;
+    width: 700px;
+    
+}
+.im
+{
+    position: absolute;
+    top: -120px;
+    height: 400px;
+    width: 700px;
+}
+.card-body
+{
+    position: absolute;
+    top: -120px;
+    left: 800px;
+}
+.gal
+{
+    position: absolute;
+    top: 1120px;
+}
+
+.image
+{
+   height: 200px;
+   width: 200px;
+   row-gap: 10px;
+   column-gap: 10px;
+   display: flex;
+
+}
